@@ -17,7 +17,7 @@ Server-side : Firebase, Front-side : Vue.js
 ### Slack API를 활용한 영화 리뷰 분석 챗봇
 
 
-### Kaggle competitions
+## Kaggle competitions
 House Prices: Advanced Regression Techniques
 
 Mercedes-Benz Greener Manufacturing
