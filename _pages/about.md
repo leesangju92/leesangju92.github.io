@@ -9,11 +9,11 @@ permalink: /about/
 
 ## 프로젝트
 ### 영화 추천 사이트
-Server-side : Django, Front-side : Bootstrap∙Javascript
+Server-side : Django<br>Front-side : Bootstrap∙Javascript
 ### Todo List 웹 애플리케이션
-Server-side : Django, Front-side : Vue.js, Deployment: Heroku
+Server-side : Django<br>Front-side : Vue.js, Deployment: Heroku
 ### 게시판형 SNS 사이트
-Server-side : Firebase, Front-side : Vue.js
+Server-side : Firebase<br>Front-side : Vue.js
 ### Slack API를 활용한 영화 리뷰 분석 챗봇
 
 
