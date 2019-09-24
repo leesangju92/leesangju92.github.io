@@ -23,7 +23,7 @@ House Prices: Advanced Regression Techniques<br>Mercedes-Benz Greener Manufactur
 <hr>
 
 ## 교육
-2011.03 ~ 2018.08	서울대학교 졸업 농학사∙경영학사 학점 3.14 / 4.3<br>2008.03 ~ 2011.02	서울 중산고등학교 졸업
+2011.03 ~ 2018.08	서울대학교 졸업 | 농학사∙경영학사 | 학점 3.14 / 4.3<br>2008.03 ~ 2011.02	서울 중산고등학교 졸업
 <hr>
 
 ## Contact
