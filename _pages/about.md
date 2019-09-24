@@ -11,5 +11,3 @@ While doing some research up on GitHub Pages, I accidentally chanced upon this _
 
 ## Contact
 Email Address : leesangju92@gmail.com
-
-Thanks for reading!
