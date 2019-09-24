@@ -21,7 +21,7 @@ House Prices: Advanced Regression Techniques
 
 Mercedes-Benz Greener Manufacturing
 
-Dogs vs. Cats Redux: Kernels Edition  Invasive Species Monitoring
+Dogs vs. Cats Redux: Kernels Edition   Invasive Species Monitoring
 
 ## 교육
 2011.03 ~ 2018.08	서울대학교 졸업, 농학사∙경영학사, 학점 3.14 / 4.3 2008.03 ~ 2011.02	서울 중산고등학교 졸업
