@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About"
+author: "이상주"
 permalink: /about/
 ---
 
