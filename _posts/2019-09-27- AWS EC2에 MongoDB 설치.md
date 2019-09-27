@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[초심자, Mac OS] AWS EC2에 MongoDB 설치"
+title: "AWS EC2에 MongoDB 설치"
 author: "이상주"
 ---
 
